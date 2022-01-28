@@ -50,3 +50,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil9302&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🤝🏻 Connect with Me  
+
+<p align>
+<a href="https://www.linkedin.com/in/nikhil-menon-8286b9200/"><img src="https://img.shields.io/badge/-Nikhil%20Menon-05122A?style=flat&logo=linkedin"/></a>
+<a href="mailto:nikhil9302@gmail.com"><img src="https://img.shields.io/badge/-nikhil9302-05122A?style=flat&logo=gmail"/></a>
+</p>
+
