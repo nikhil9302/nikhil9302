@@ -39,3 +39,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/nikhil9302">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil9302&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil9302&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
