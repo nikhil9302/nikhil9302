@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
-🌱 &nbsp;I'm on track for learning more about Cybersecurity, Advanced Data Structures and Artificial Intelligence.\
+🌱 &nbsp;I'm interested in Cybersecurity, Backend Development and Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I do Competitive Programming and like to solve challenging problems.\
 📄 &nbsp;You can have a look at my [Résumé](https://drive.google.com/file/d/1KICjsSwOH_xRq13Btuhgm7-UXCqRT5MH/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
