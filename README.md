@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/nikhil9302)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' height='50' align="left"/><h2>Hey there! I'm Nikhil</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
